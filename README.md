@@ -14,8 +14,7 @@ on Machine Learning Topics, specifically into voice related issues.
 [<img align="left" alt="Thales | GMail" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@3.10.0/icons/gmail.svg" />][E-mail]
 [<img align="left" alt="Thales | Lattes" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@3.10.0/icons/gmail.svg" />][Lattes]
 [<img align="left" alt="Thales | ORCID" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@3.10.0/icons/orcid.svg" />][ORCID]
-
-
+<br />
 
 ### :bookmark_tabs: Latest scientific production:
 1. T. A. de Lima and M. D. Costa-Abreu, “A survey on automatic speech recognition systems for Portuguese language and its variations,” Comput Speech Lang, vol. 62, p. 101055, Jul. 2020, <a href=https://doi.org/10.1016/j.csl.2019.101055>doi: 10.1016/j.csl.2019.101055.</a>
