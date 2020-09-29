@@ -22,8 +22,15 @@
 <br />
 
 ### Language and tools:
-[<img align="left" alt="Git" width="26px" src="https://simpleicons.org/icons/git.svg" />]
-[<img align="left" alt="Python" width="26px" src="https://simpleicons.org/icons/python.svg" />]
+<img align="left" alt="Git" width="26px" src="https://simpleicons.org/icons/git.svg" />
+<img align="left" alt="GitHub" width="26px" src="https://simpleicons.org/icons/github.svg" />
+<img align="left" alt="Vim" width="26px" src="https://simpleicons.org/icons/vim.svg" />
+<img align="left" alt="VS Code" width="26px" src="https://simpleicons.org/icons/visualstudiocode.svg" />
+<img align="left" alt="Eclipse IDE" width="26px" src="https://simpleicons.org/icons/eclipseide.svg" />
+<img align="left" alt="Python" width="26px" src="https://simpleicons.org/icons/python.svg" />
+<img align="left" alt="C++" width="26px" src="https://simpleicons.org/icons/cplusplus.svg" />
+<img align="left" alt="Java" width="26px" src="https://simpleicons.org/icons/java.svg" />
+
 
 [Lattes]: http://lattes.cnpq.br/1282015882147803
 [ORCID]: https://orcid.org/0000-0002-1043-8685
