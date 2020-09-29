@@ -41,25 +41,6 @@
 
 
 
-<img align="left" alt="Git" width="26px" src="https://simpleicons.org/icons/git.svg" />
-<img align="left" alt="GitHub" width="26px" src="https://simpleicons.org/icons/github.svg" />
-<img align="left" alt="Vim" width="26px" src="https://simpleicons.org/icons/vim.svg" />
-<img align="left" alt="VS Code" width="26px" src="https://simpleicons.org/icons/visualstudiocode.svg" />
-<img align="left" alt="Eclipse IDE" width="26px" src="https://simpleicons.org/icons/eclipseide.svg" />
-<img align="left" alt="Python" width="26px" src="https://simpleicons.org/icons/python.svg" />
-<img align="left" alt="C++" width="26px" src="https://simpleicons.org/icons/cplusplus.svg" />
-<img align="left" alt="Java" width="26px" src="https://simpleicons.org/icons/java.svg" />
-<img align="left" alt="PostgreSQL" width="26px" src="https://simpleicons.org/icons/postgresql.svg" />
-<img align="left" alt="MySQL" width="26px" src="https://simpleicons.org/icons/mysql.svg" />
-<img align="left" alt="C" width="26px" src="https://simpleicons.org/icons/c.svg" />
-<img align="left" alt="C#" width="26px" src="https://simpleicons.org/icons/csharp.svg" />
-<img align="left" alt="NumPy" width="26px" src="https://simpleicons.org/icons/numpy.svg" />
-<img align="left" alt="SkLearn" width="26px" src="https://simpleicons.org/icons/scikit-learn.svg" />
-<img align="left" alt="PyTorch" width="26px" src="https://simpleicons.org/icons/pytorch.svg" />
-
-
-
-
 [Lattes]: http://lattes.cnpq.br/1282015882147803
 [ORCID]: https://orcid.org/0000-0002-1043-8685
 [E-mail]: thalesaguiar21@gmail.com
