@@ -18,9 +18,7 @@
 ### :bookmark_tabs: Latest scientific production:
 1. T. A. de Lima and M. D. Costa-Abreu, “A survey on automatic speech recognition systems for Portuguese language and its variations,” Comput Speech Lang, vol. 62, p. 101055, Jul. 2020, <a href=https://doi.org/10.1016/j.csl.2019.101055>doi: 10.1016/j.csl.2019.101055.</a>
 2. de Lima, T. A., & Madeira, C. A. G. (2017). An Investigation of Using Monte-Carlo Tree Search for Creating the Intelligent Elements of Rise of Mitra. SBC–Proceedings of SBGames. <a href=https://www.sbgames.org/sbgames2017/papers/ComputacaoShort/175198.pdf>Proceedings 2017</a>
-
 <br />
-
 ### Language and tools:
 <img align="left" alt="Git" width="26px" src="https://simpleicons.org/icons/git.svg" />
 <img align="left" alt="GitHub" width="26px" src="https://simpleicons.org/icons/github.svg" />
@@ -30,6 +28,15 @@
 <img align="left" alt="Python" width="26px" src="https://simpleicons.org/icons/python.svg" />
 <img align="left" alt="C++" width="26px" src="https://simpleicons.org/icons/cplusplus.svg" />
 <img align="left" alt="Java" width="26px" src="https://simpleicons.org/icons/java.svg" />
+<img align="left" alt="PostgreSQL" width="26px" src="https://simpleicons.org/icons/postgresql.svg" />
+<img align="left" alt="MySQL" width="26px" src="https://simpleicons.org/icons/mysql.svg" />
+<img align="left" alt="C" width="26px" src="https://simpleicons.org/icons/c.svg" />
+<img align="left" alt="C#" width="26px" src="https://simpleicons.org/icons/csharp.svg" />
+<img align="left" alt="NumPy" width="26px" src="https://simpleicons.org/icons/numpy.svg" />
+<img align="left" alt="SkLearn" width="26px" src="https://simpleicons.org/icons/scikit-learn.svg" />
+<img align="left" alt="PyTorch" width="26px" src="https://simpleicons.org/icons/pytorch.svg" />
+
+
 
 
 [Lattes]: http://lattes.cnpq.br/1282015882147803
