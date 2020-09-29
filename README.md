@@ -1,4 +1,6 @@
-### Hi there, I'm Thales! :wave:
+### Hi there! :wave:
+I have an M.Sc. in Systems and Computing, and I'm a PhD Candidate! My interests lay
+on Machine Learning Topics, specifically into voice related issues.
 
 
 ## A PhD student in Computer Science, AI researcher, and a Python maniac!
@@ -13,7 +15,6 @@
 [<img align="left" alt="Thales | Lattes" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@3.10.0/icons/gmail.svg" />][Lattes]
 [<img align="left" alt="Thales | ORCID" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@3.10.0/icons/orcid.svg" />][ORCID]
 
-<br />
 
 ### :bookmark_tabs: Latest scientific production:
 1. T. A. de Lima and M. D. Costa-Abreu, “A survey on automatic speech recognition systems for Portuguese language and its variations,” Comput Speech Lang, vol. 62, p. 101055, Jul. 2020, <a href=https://doi.org/10.1016/j.csl.2019.101055>doi: 10.1016/j.csl.2019.101055.</a>
@@ -21,7 +22,6 @@
 
 [More :arrow_right:][Lattes]
 
-<br />
 
 ### Language and tools:
 <img align="left" alt="Git" width="26px" src="https://simpleicons.org/icons/git.svg" />
