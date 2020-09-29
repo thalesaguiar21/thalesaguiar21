@@ -13,3 +13,9 @@
 [<img align="left" alt="Thales | Lattes" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@3.10.0/icons/gmail.svg" />][Lattes]
 [<img align="left" alt="Thales | ORCID" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@3.10.0/icons/orcid.svg" />][ORCID]
 
+
+
+[Lattes]: http://lattes.cnpq.br/1282015882147803
+[ORCID]: https://orcid.org/0000-0002-1043-8685
+[E-mail]: thalesaguiar21@gmail.com
+
