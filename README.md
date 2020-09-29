@@ -1,9 +1,9 @@
-### Hi there! :wave:
+## Hi there! :wave:
 I have an M.Sc. in Systems and Computing, and I'm a PhD Candidate! My interests lay
 on Machine Learning Topics, specifically into voice related issues.
 
 
-## A PhD student in Computer Science, AI researcher, and a Python maniac!
+### A PhD student in Computer Science, AI researcher, and a Python maniac!
 
 - 🔭 I’m currently working on age estimation through voice!
 - 🌱 I’m currently learning PyTorch and VS Code!
@@ -12,7 +12,6 @@ on Machine Learning Topics, specifically into voice related issues.
 
 ### 📫 How to reach me:
 [<img align="left" alt="Thales | GMail" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@3.10.0/icons/gmail.svg" />][E-mail]
-[<img align="left" alt="Thales | Lattes" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@3.10.0/icons/gmail.svg" />][Lattes]
 [<img align="left" alt="Thales | ORCID" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@3.10.0/icons/orcid.svg" />][ORCID]
 <br />
 
