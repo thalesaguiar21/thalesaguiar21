@@ -10,11 +10,11 @@
 
 ### 📫 How to reach me:
 [<img align="left" alt="Thales | GMail" width=22px
-src="https://cdn.jsdelivr.net/npm/simple-icons@3.10.0/icons/gmail.svg"/>[E-mail]
+src="https://cdn.jsdelivr.net/npm/simple-icons@3.10.0/icons/gmail.svg"/>][E-mail]
 
 [<img align="left" alt="Thales | Lattes" width=22px
-src="https://cdn.jsdelivr.net/npm/simple-icons@3.10.0/icons/gmail.svg"/>[Lattes]
+src="https://cdn.jsdelivr.net/npm/simple-icons@3.10.0/icons/gmail.svg"/>][Lattes]
 
 [<img align="left" alt="Thales | ORCID" width=22px
-src="https://cdn.jsdelivr.net/npm/simple-icons@3.10.0/icons/orcid.svg"/>[ORCID]
+src="https://cdn.jsdelivr.net/npm/simple-icons@3.10.0/icons/orcid.svg"/>][ORCID]
 
