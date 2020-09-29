@@ -13,6 +13,9 @@
 [<img align="left" alt="Thales | Lattes" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@3.10.0/icons/gmail.svg" />][Lattes]
 [<img align="left" alt="Thales | ORCID" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@3.10.0/icons/orcid.svg" />][ORCID]
 
+### :bookmark_tabs: Latest scientific production:
+1. T. A. de Lima and M. D. Costa-Abreu, “A survey on automatic speech recognition systems for Portuguese language and its variations,” Comput Speech Lang, vol. 62, p. 101055, Jul. 2020, <a href=https://doi.org/10.1016/j.csl.2019.101055>doi: 10.1016/j.csl.2019.101055.</a>
+2. de Lima, T. A., & Madeira, C. A. G. (2017). An Investigation of Using Monte-Carlo Tree Search for Creating the Intelligent Elements of Rise of Mitra. SBC–Proceedings of SBGames.<a href=https://www.sbgames.org/sbgames2017/papers/ComputacaoShort/175198.pdf>Proceedings 2017</a>
 
 
 [Lattes]: http://lattes.cnpq.br/1282015882147803
