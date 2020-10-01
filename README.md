@@ -14,7 +14,6 @@ on Machine Learning Topics, specifically into voice related issues.
 - thalesaguiar21@gmail.com
 - [ORCID]
 - [Lattes]
-<br/>
 
 ### Latest scientific production:
 1. T. A. de Lima and M. D. Costa-Abreu, “A survey on automatic speech recognition systems for Portuguese language and its variations,” Comput Speech Lang, vol. 62, p. 101055, Jul. 2020, <a href=https://doi.org/10.1016/j.csl.2019.101055>doi: 10.1016/j.csl.2019.101055.</a>
