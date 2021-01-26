@@ -16,10 +16,11 @@ on Machine Learning Topics, specifically into voice related issues.
 - [Lattes]
 
 ### Latest scientific production:
-1. T. A. de Lima and M. D. Costa-Abreu, “A survey on automatic speech recognition systems for Portuguese language and its variations,” Comput Speech Lang, vol. 62, p. 101055, Jul. 2020, <a href=https://doi.org/10.1016/j.csl.2019.101055>doi: 10.1016/j.csl.2019.101055.</a>
-2. de Lima, T. A., & Madeira, C. A. G. (2017). An Investigation of Using Monte-Carlo Tree Search for Creating the Intelligent Elements of Rise of Mitra. SBC–Proceedings of SBGames. <a href=https://www.sbgames.org/sbgames2017/papers/ComputacaoShort/175198.pdf>Proceedings 2017</a>
+1. LIMA, T. A.; Da Costa Abreu, Marjory. _Investigating the use of multiple languages for crisp and fuzzy speaker identification_. In: 11th International Conference on Pattern Recognition Systems, 2021, Curico, Chile. ICPRS'21, 2021.
+2. T. A. de Lima and M. D. Costa-Abreu, _A survey on automatic speech recognition systems for Portuguese language and its variations_ Computer Speech & Language, vol. 62, p. 101055, Jul. 2020, <a href=https://doi.org/10.1016/j.csl.2019.101055>doi: 10.1016/j.csl.2019.101055.</a>
+3. LIMA, T. A., & Madeira, C. A. G. (2017). _An Investigation of Using Monte-Carlo Tree Search for Creating the Intelligent Elements of Rise of Mitra_. SBC–Proceedings of SBGames. <a href=https://www.sbgames.org/sbgames2017/papers/ComputacaoShort/175198.pdf>Proceedings 2017</a> 
 
-[More :arrow_right:][Lattes]
+[MORE :arrow_right:][Lattes]
 
 
 ### Language and tools:
