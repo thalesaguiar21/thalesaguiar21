@@ -1,14 +1,14 @@
 ## Hi there! :wave:
-I have an M.Sc. in Systems and Computing, and I'm a PhD Candidate! My interests lay
-on Machine Learning Topics, specifically into voice related issues.
+I'm a Aritificial Intelligence reseacher with an MSc in Systems and Computing, and
+currently a PhD Candidate! My interests lay on Machine Learning Topics,
+specifically into voice related issues.
 
 
 ### A PhD student in Computer Science, AI researcher, and a Python maniac!
-
 - 🔭 I’m currently working on age estimation through voice!
-- 🌱 I’m currently learning PyTorch and VS Code!
+- 🌱 I’m currently learning TensorFlow!
 - 👯 I’m looking to collaborate on more public repositories.
-- ⚡ Fun fact: I love gaming :eyes:
+- ⚡ Fun fact: I'm addicted to gaming :eyes:
 
 ### 📫 How to reach me:
 - thalesaguiar21@gmail.com
@@ -44,4 +44,3 @@ on Machine Learning Topics, specifically into voice related issues.
 [Lattes]: http://lattes.cnpq.br/1282015882147803
 [ORCID]: https://orcid.org/0000-0002-1043-8685
 [E-mail]: thalesaguiar21@gmail.com
-
