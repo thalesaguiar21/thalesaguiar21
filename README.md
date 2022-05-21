@@ -5,7 +5,7 @@ specifically into voice related issues.
 
 
 ### A PhD student in Computer Science, AI researcher, and a Python maniac!
-- 🔭 I’m currently working on age estimation through voice!
+- 🔭 My current research involves __Accent Conversion__ and __Dataset Collection__!
 - 🌱 I’m currently learning TensorFlow!
 - 👯 I’m looking to collaborate on more public repositories.
 - ⚡ Fun fact: I'm addicted to gaming :eyes:
@@ -16,6 +16,7 @@ specifically into voice related issues.
 - [Lattes]
 
 ### Latest scientific production:
+1. (__IN PRODUCTION__) LIMA, T. A.; Da Costa Abreu, Marjory. _Phoneme analysis for multiple languages with fuzzy‐based speaker identification_. In: IET Biometrics, 2022.
 1. LIMA, T. A.; Da Costa Abreu, Marjory. _Investigating the use of multiple languages for crisp and fuzzy speaker identification_. In: 11th International Conference on Pattern Recognition Systems, 2021, Curico, Chile. ICPRS'21, 2021.
 2. T. A. de Lima and M. D. Costa-Abreu, _A survey on automatic speech recognition systems for Portuguese language and its variations_ Computer Speech & Language, vol. 62, p. 101055, Jul. 2020, <a href=https://doi.org/10.1016/j.csl.2019.101055>doi: 10.1016/j.csl.2019.101055.</a>
 3. LIMA, T. A., & Madeira, C. A. G. (2017). _An Investigation of Using Monte-Carlo Tree Search for Creating the Intelligent Elements of Rise of Mitra_. SBC–Proceedings of SBGames. <a href=https://www.sbgames.org/sbgames2017/papers/ComputacaoShort/175198.pdf>Proceedings 2017</a> 
