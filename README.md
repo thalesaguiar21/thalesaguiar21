@@ -38,7 +38,7 @@ specifically into voice related issues.
 <img align="left" alt="C" width="26px" src="https://simpleicons.org/icons/c.svg" />
 <img align="left" alt="C#" width="26px" src="https://simpleicons.org/icons/csharp.svg" />
 <img align="left" alt="NumPy" width="26px" src="https://simpleicons.org/icons/numpy.svg" />
-<img align="left" alt="SkLearn" width="26px" src="https://simpleicons.org/icons/scikit-learn.svg" />
+<img align="left" alt="SkLearn" width="26px" src="https://simpleicons.org/icons/scikitlearn.svg" />
 <img align="left" alt="PyTorch" width="26px" src="https://simpleicons.org/icons/pytorch.svg" />
 
 
